@@ -1,0 +1,8 @@
+{
+    "orgName": "Demo Company",
+    "edition": "Enterprise",
+    "features" : ["PersonAccounts"],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
